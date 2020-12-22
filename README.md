@@ -1,15 +1,29 @@
-# IntelliJ-Find-In-Path-Configs
+<div>
+<p>
+<a href="https://github.com/Fuzy/IntelliJ-Find-In-Path-Configs">
+<img src="https://github.com/Fuzy/IntelliJ-Find-In-Path-Configs/doc/img/pluginIcon.svg" align="left" height="100" width="100">
+</a>
+</p>
+<p class="vertical-align: middle;">
+IntelliJ Find In Path Configs (Plugin)
+</p>
+</div>
+
+<br/><br/><br/><br/>
 IntelliJ plugin for frequently used Find In Path configurations
+<br/>
 
 ## Features
 
-- save your Find In Path options for later reuse
-- it saves your favorite find options per project
-- predefined options for emtpy search and last used search
+- save your Find In Path configuration for later reuse (per project)
+- predefined configurations for empty search and last used search
 
 ## Installation
 
-The plugin can be installed with **Settings | Plugins | Market Place** and searching for *Find in Path*.
+- Using IDE built-in plugin system:
+
+  <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> >
+  <kbd>Search for Find In Path configs</kbd> > <kbd>Install Plugin</kbd>
 
 ## How to use
 
@@ -31,5 +45,5 @@ There is currently no settings under **Settings | Tools**
 
 ### Reporting issues
 
-If you experience bugs or weird behavior please create an issue 
+If you experience bugs or weird behavior please create an issue
 [on the bug tracker](https://github.com/Fuzy/IntelliJ-Find-In-Path-Configs/issues).
