@@ -1,7 +1,7 @@
 <div>
 <p>
 <a href="https://github.com/Fuzy/IntelliJ-Find-In-Path-Configs">
-<img src="https://github.com/Fuzy/IntelliJ-Find-In-Path-Configs/doc/img/pluginIcon.svg" align="left" height="100" width="100">
+<img src="/doc/img/pluginIcon.svg" align="left" height="100" width="100">
 </a>
 </p>
 <p class="vertical-align: middle;">
