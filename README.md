@@ -1,13 +1,6 @@
-<div>
-<p>
-<a href="https://github.com/Fuzy/IntelliJ-Find-In-Path-Configs">
 <img src="/doc/img/pluginIcon.svg" align="left" height="200" width="200">
-</a>
-</p>
-<p style="font-size: 50px;">
-IntelliJ Find In Path Configs (Plugin)
-</p>
-</div>
+
+#IntelliJ Find In Path Configs (Plugin)
 
 <br/><br/><br/><br/><br/>
 IntelliJ plugin for frequently used Find In Path configurations
