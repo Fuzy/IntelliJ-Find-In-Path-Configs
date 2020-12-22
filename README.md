@@ -1,6 +1,7 @@
 <div><img src="/doc/img/pluginIcon.svg" align="left" height="200" width="200"></div>
+<br/>
 
-#IntelliJ Find In Path Configs (Plugin)
+# IntelliJ Find In Path Configs (Plugin)
 
 <br/><br/><br/><br/><br/>
 IntelliJ plugin for frequently used Find In Path configurations
