@@ -1,4 +1,4 @@
-<img src="/doc/img/pluginIcon.svg" align="left" height="200" width="200">
+<div><img src="/doc/img/pluginIcon.svg" align="left" height="200" width="200"></div>
 
 #IntelliJ Find In Path Configs (Plugin)
 
