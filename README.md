@@ -4,34 +4,42 @@
 # IntelliJ Find In Path Configs (Plugin)
 
 <br/><br/><br/><br/><br/>
-IntelliJ plugin for frequently used Find In Path configurations
+IntelliJ plugin for frequently used <em>Find In Path</em> configurations
 <br/>
 
 ## Features
 
-- save your Find In Path configuration for later reuse (per project)
+- save your <em>Find In Path</em> configuration for later reuse (per project)
 - predefined configurations for empty search and last used search
 
 ## Installation
 
 - Using IDE built-in plugin system:
 
-  <kbd>Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> >
-  <kbd>Search for Find In Path configs</kbd> > <kbd>Install Plugin</kbd>
+  <kbd>Settings</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> >
+  <kbd>Search for <em>Find In Path (Configurations)</em></kbd> > <kbd>Install Plugin</kbd>
 
 ## How to use
 
 #### Create new configuration
 
-Use Find In Path action as always, then respond to notification. Click Save option, then fill name.
+Use <kbd>Ctrl+Shift+F</kbd> for standard <em>Find In Path action</em>, then respond to notification.
+Click Save option, then fill name.
+
+![Save notification](doc/img/save-notification.png)
+![Save config](doc/img/save-config.png)
 
 ### Use previously saved configuration
 
-Hit Ctrl+Alt+Shift+F then choose from list.
+Hit <kbd>Ctrl+Alt+Shift+F</kbd> then choose from list.
+
+![Choose config](doc/img/choose-config.png)
 
 ### Delete existing configuration
 
-Hit Ctrl+Alt+Shift+F then select (move with arrows) to one from list and hit Delete key.
+Hit <kbd>Ctrl+Alt+Shift+F</kbd> then select (move with arrows) to one from list and hit Delete key.
+
+![Delete config](doc/img/delete-config.png)
 
 ### Settings
 
