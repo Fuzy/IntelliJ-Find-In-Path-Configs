@@ -1,15 +1,18 @@
 <div><img src="/doc/img/pluginIcon.svg" align="left" height="200" width="200"></div>
 <br/>
 
-# IntelliJ Find In Path Configs (Plugin)
+# IntelliJ Find In Files Configs (Plugin)
+
+<div><img src="/doc/img/plugin.gif" align="left" height="884" width="1013"></div>
+<br/>
 
 <br/><br/><br/><br/><br/>
-IntelliJ plugin for frequently used <em>Find In Path</em> configurations
+IntelliJ plugin for frequently used <em>Find In Files</em> configurations
 <br/>
 
 ## Features
 
-- save your <em>Find In Path</em> configuration for later reuse (per project)
+- save your <em>Find In Files</em> configuration for later reuse (per project)
 - predefined configurations for empty search and last used search
 
 ## Installation
@@ -17,14 +20,13 @@ IntelliJ plugin for frequently used <em>Find In Path</em> configurations
 - Using IDE built-in plugin system:
 
   <kbd>Settings</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> >
-  <kbd>Search for <em>Find In Path (Configurations)</em></kbd> > <kbd>Install Plugin</kbd>
+  <kbd>Search for <em>Find In Files (Configurations)</em></kbd> > <kbd>Install Plugin</kbd>
 
 ## How to use
 
 #### Create new configuration
 
-Use <kbd>Ctrl+Shift+F</kbd> for standard <em>Find In Path action</em>, then respond to notification.
-Click Save option, then fill name.
+Use <kbd>Ctrl+Shift+F</kbd> for standard <em>Find In Files action</em>, then respond to notification. Click Save option, then fill name.
 
 ![Save notification](doc/img/save-notification.png)
 ![Save config](doc/img/save-config.png)
